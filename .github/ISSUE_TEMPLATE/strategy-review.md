@@ -3,10 +3,14 @@ name: Strategy Review
 about: Submit strategy for review
 title: ''
 labels: ''
-assignees: ''
+assignees: milkyklim
 
 ---
 
 Description: 
 
 Commit: []()
+
+Tag: []()
+
+Repo: []()
