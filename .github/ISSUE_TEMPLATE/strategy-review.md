@@ -7,10 +7,25 @@ assignees: milkyklim
 
 ---
 
-Description: 
+**Description**: 
 
-Commit: []()
+**Commit (hash)**: 
 
-Tag: []()
+**Tag**:
 
-Repo: []()
+**Repo**: https://github.com/name/strategy
+
+**Scope**: (List link to files)
+- File.sol
+
+**Additional References or Repo** (Link to underlying protocols or relevant documents):
+
+**Deployed Contract** (etherscan link): 
+
+**Review Ongoing By**:
+- [ ] Dev 1
+- [ ] Dev 2
+
+**Review Completed By**:
+- [ ] Dev 1
+- [ ] Dev 2
