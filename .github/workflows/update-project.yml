@@ -10,6 +10,6 @@ jobs:
         uses: peter-evans/create-or-update-project-card@v1
         with:
           token: ${{ secrets.PAT }}
-          project-location: iearn-finance
+          project-location: year
           project-name: Code Reviews
           column-name: Back Log
